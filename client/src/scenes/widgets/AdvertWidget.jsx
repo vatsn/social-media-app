@@ -21,7 +21,7 @@ const AdvertWidget = () => {
         height="auto"
         alt="advert"        
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
-        src={`${process.env.REACT_APP_BACKEND_URL}/assets/purpleCarrot1.jpg`}             
+        src={`${process.env.REACT_APP_BACKEND_URL}/assets/purplecarrot1.JPG`}             
       />
       <FlexBetween>
         <Typography color={main}>Purple Carrot</Typography>
